@@ -1,7 +1,6 @@
 <h2> Hi there 👋 🙂 </h2>
-<li> 👨‍💻 I’m currently working on blog.js, Felix.py, and hiking_landing_page.html </li>
 
-<li> 🌱 I’m currently learning JavaScript, Node.Js, React, and Redux... </li>
+<li> 🌱 I’m currently learning Node.Js, React, and C++ </li>
 
 <li> 🖥 How to reach me: yusufkarem22@gmail.com </li>
 
